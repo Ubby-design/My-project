@@ -1,0 +1,1 @@
+The three main pillars in DevOps are: Infrastructure, Automation and Monitoring

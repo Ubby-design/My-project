@@ -1,0 +1,1 @@
+Basically the key concepts in DevOps spans from Virtualization/Infrastructure:servers(linux OS)/Database server/Networking/Programming and Git/AWS: Infrastructure as Code & CI/CD (Containerization)

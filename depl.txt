@@ -1,1 +1,5 @@
+
 Deployment is a major concept in DevOps with concepts like Infrastructure as Code, Provisioning and Configuration management as enablers.
+And up here, we have tools like; Terraform for Infrastructure as Code (IaC)/
+                                 Basic concept of provisioning, if I may say
+                                 Ansible for Configuration management

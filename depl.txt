@@ -1,0 +1,1 @@
+Deployment is a major concept in DevOps with concepts like Infrastructure as Code, Provisioning and Configuration management as enablers.
